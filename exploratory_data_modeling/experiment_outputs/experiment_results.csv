@@ -1,0 +1,2 @@
+Model,Corpus,recall_score,precision_score,f1_score
+Linear SVM,title abstract raw,0.86486,0.8953,0.87931
