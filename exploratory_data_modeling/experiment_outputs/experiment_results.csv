@@ -1,3 +1,4 @@
 Model,Corpus,recall_score,precision_score,f1_score
 Linear SVM,title abstract raw,0.86486,0.8953,0.87931
+Linear SVM,title + abstract raw,0.86486,0.8953,0.87931
 Logistic Regression,title abstract raw,0.83198,0.90423,0.86369
